@@ -1,7 +1,7 @@
 ## Project Scope
 <strong>
 The project is a form that contains Tailwind CSS and Firebase integration based on a figma design.
-This form can be easy integrate in another big project.</strong>
+This form can be easily integrated into another big project.</strong>
 
 All form data are saved in a Firestore database. For the moment there are only some data for testing.
 
