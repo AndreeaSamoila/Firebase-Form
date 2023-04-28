@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overscroll-behavior: contain;
+    height: 100%;
+    background-color: #e2e8f0 ;
+}
+html {
+    height:100%;
+}
+#__next {
+    height: 100%;
+}
+#btn-form {
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+    background-color: #1d4ed8 !important;
+    color: white;
+    border-radius: 5px;
+}
+.MuiChip-root {
+    border-radius: 3px !important;
+    background-color: rgb(224 242 254) !important;
+
+}
+.MuiSelect-select-MuiInputBase-input {
+    height: inherit;
+}
+
